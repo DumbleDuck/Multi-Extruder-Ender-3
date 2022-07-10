@@ -33,4 +33,29 @@ Make the following changes to the firmware. For Marlin-bugfix-2.0.x, just replac
 Download and print the STL files. Assemble according to the pictures.
 Note: The MKS Gen L mount is modified version of the one designed by Teaching Tech ([Youtube](https://www.youtube.com/c/TeachingTech), [Thingiverse](https://www.thingiverse.com/thing:3688967)).
 
+**Hotend Mount Assembly**
+![Hotend Mount Assembly](https://user-images.githubusercontent.com/103637312/178162715-91cc8bc4-fdec-4805-a6c3-18e71a78992e.png)
+
+
+**MKS Gen L Enclosure**
+![image](https://user-images.githubusercontent.com/103637312/178162741-7f1fadeb-53e4-4d76-94e4-f9656847f7b9.png)
+
+
+**Modified motherboard case**
+
+![image](https://user-images.githubusercontent.com/103637312/178162762-ed3866db-aacc-498e-8980-0b9bbc7722d2.png)
+
+
+
+**Modified printer**
+
+![image](https://user-images.githubusercontent.com/103637312/178162771-f75a96ff-7ce8-46f6-b277-361cb853c4af.png)
+
+
+
+**Marlin firmware**
+
+![image](https://user-images.githubusercontent.com/103637312/178162780-ba8be585-15b3-4e5b-a92c-6364e77b1478.png)
+
+
 ---
